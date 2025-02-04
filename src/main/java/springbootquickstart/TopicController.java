@@ -18,12 +18,6 @@ public class TopicController {
     }
 
 
-    @RequestMapping("/topics/idBen")
-    public Topic getTopicBen() {
-        return topicService.getTopicBen(2);
-    }
-
-
     @RequestMapping("/topics/{id}")
     public Topic getTopic(@PathVariable String id) {
         return topicService.getTopic(id);
@@ -43,7 +37,7 @@ public class TopicController {
 
     @RequestMapping(method = RequestMethod.DELETE, value = "/topics/{id}")
     public void deleteTopic(@PathVariable String id) {
-         topicService.deleteTopic(id);
+        topicService.deleteTopic(id);
     }
 
 
