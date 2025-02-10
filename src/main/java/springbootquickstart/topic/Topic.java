@@ -1,4 +1,4 @@
-package springbootquickstart;
+package springbootquickstart.topic;
 
 
 import jakarta.persistence.Entity;

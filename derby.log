@@ -1,7 +1,7 @@
 ----------------------------------------------------------------
-Tue Feb 04 12:35:00 CST 2025:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0194-d23e-85b9-00000383c3a0 
-on database directory memory:/Users/benboaz/Desktop/SpringBoot projects/course-api-data/64f0cf3c-c380-466d-8ed3-ac9857646704 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
+Mon Feb 10 12:36:26 CST 2025:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.16.1.1 - (1901046): instance a816c00e-0194-f125-fde9-0000022d6580 
+on database directory memory:/Users/benboaz/Desktop/SpringBoot projects/course-api-data/234667a4-aed2-42a0-a915-042bafc78486 with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@4e0e2f2a 
 Loaded from file:/Users/benboaz/.m2/repository/org/apache/derby/derby/10.16.1.1/derby-10.16.1.1.jar
 java.vendor=Oracle Corporation
 java.runtime.version=20.0.1+9-29

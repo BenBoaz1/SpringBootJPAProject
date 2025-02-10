@@ -1,4 +1,4 @@
-package springbootquickstart;
+package springbootquickstart.topic;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
